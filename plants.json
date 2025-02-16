@@ -1,5 +1,6 @@
 {
     "plants": {
+        "azadirachta_indica":"https://drive.google.com/file/d/1bX4Oiy0rccNPz40HqKkMU0CSg1a91VH0/view?usp=drive_link",
         "amalaki": "https://drive.google.com/file/d/1iHMNzQghsXMlafdk0HVNmrjeuTOhgIYN/view?usp=sharing",
         "amra": "https://drive.google.com/file/d/1VYl930wNDwmxJ8eqXpQzCsdDTp6hAhGg/view?usp=sharing",
         "ashoka": "https://drive.google.com/file/d/1P4HmgLjwGc6qZW2nKsQ1cKHiFh_eFP13/view?usp=drive_link",
@@ -21,5 +22,6 @@
         "shigru": "https://drive.google.com/file/d/1D_6nMvnEJHdvtsORkEcQosSGfesS7sV3/view?usp=drive_link",
         "udumbarah": "https://drive.google.com/file/d/1fbyiHYdyU0HYifqZKTodwft3s1X7xHMh/view?usp=drive_link",
         "vasa": "https://drive.google.com/file/d/1Un0Xp4j5goABmeAIJ1Dx4BPf6Ix0qgHN/view?usp=drive_link"
+        
       }  
   }
