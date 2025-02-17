@@ -1,4 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("xyz").addEventListener("click", function () {
+        window.location.href = "https://maps.app.goo.gl/f6Dp5HHjcPypk1Qs7";
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
   const jsonUrl = `plants.json?v=${new Date().getTime()}`; // Cache-busting
 
   fetch(jsonUrl, { cache: "no-store" }) // Ensures latest JSON is fetched
